@@ -1,1 +1,1 @@
-# demo
+# symfony-demo/demo-bundle

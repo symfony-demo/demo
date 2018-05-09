@@ -1,0 +1,16 @@
+{
+    "name": "symfony-demo/demo-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony DemoBundle",
+    "keywords": [],
+    "homepage": "https://github.com/symfony-demo/demo-bundle",
+    "license": "MIT",
+    "authors": [
+    ],
+    "autoload": {
+        "psr-4": { "SymfonyDemo\\Bundle\\DemoBundle\\": "" },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    }
+}
